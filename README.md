@@ -1,6 +1,6 @@
 # Jacques van Rensburg
 
-**Data Analytics | Machine Learning | Business Process Automation**
+**Data Analytics | Machine Learning | Python & SQL | Business Process Automation | BCom Hons Business Management** 
 
 George, Western Cape, South Africa
 
